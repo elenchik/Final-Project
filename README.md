@@ -6,7 +6,7 @@ Instructions:
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Start MongoDB server locally
-4. Run Flask app: `python app/app.py`
+4. Run Flask app: `python app.py`
 5. Data is saved in MongoDB, exported to `data/user_data.csv` using `user.py`
 
 Data Analysis:
